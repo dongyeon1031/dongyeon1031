@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 김동연입니다 👋
 
 <!--
 **dongyeon1031/dongyeon1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 안녕하세요 김동연입니다 👋
-
 - 🌱 I’m currently learning: **Back End, AI, Data Science**
 - 📫 Email: ehddus0087@naver.com@naver.com
 
@@ -24,6 +22,7 @@ Here are some ideas to get you started:
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
